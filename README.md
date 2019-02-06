@@ -84,7 +84,7 @@ Let's check out a few API's
 - [Pokemon API](https://pokeapi.co/)
 - [Game of Thrones API](https://anapioficeandfire.com/)
 
-[We can add a chrome extentsion to make JSON easier to read](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+We can add a [chrome extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) to make JSON easier to read.
 
 ## AJAX
 
@@ -121,6 +121,8 @@ We make AJAX requests with
 - many other helpful AJAX libraries
 
 ## Axios
+
+We will be using Axios for our AJAX requests.  Axios is a very popular library and we can use it in the browser and with node.
 
 ### Request
 - method
